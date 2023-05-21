@@ -1,5 +1,13 @@
 [
   {
+  "id": "obsidian-archnet",
+  "name": "Archnet",
+  "author": "Will Leeney",
+  "description": "Creates possibile branches for LLM text generation in the Canvas",
+  "repo": "willleeney/archnet",
+  "branch": "working-version"
+  },
+  {
     "id": "nldates-obsidian",
     "name": "Natural Language Dates",
     "author": "Argentina Ortega Sainz",
